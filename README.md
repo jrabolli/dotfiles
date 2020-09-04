@@ -19,7 +19,6 @@ new Mac setup
 - zsh-syntax-highlighting
 
 # order
-
-install xcode tools
-install homebrew
-bew install rbenv
+- install xcode tools
+- install homebrew
+  - bew install rbenv
