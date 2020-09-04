@@ -1,7 +1,7 @@
 # dotfiles
 new Mac setup
 
-# Tools I use
+# Tools we use
 - Slack
 - TablePlus
 - VS Code
@@ -19,14 +19,14 @@ new Mac setup
 - zsh-syntax-highlighting
 - zsh-autosuggestions
 
-# order
+# setup order
 - install xcode tools
 - install homebrew
 - oh-my-zsh
 - postgresql app
 - brew install (all)
 
-# clone
+# clone projects
 (in code directory)
 - git clone git@github.com:jrabolli/####.git
 - check ruby version from project ruby-version file
