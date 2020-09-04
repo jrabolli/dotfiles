@@ -10,6 +10,7 @@ new Mac setup
 - Heroku Toolbelt
 - oh-my-zsh (https://ohmyz.sh)
 - Postgresql mac app (https://postgresapp.com)
+- GIT
 
 # Homebrew installs
 - heroku
