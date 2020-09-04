@@ -1,18 +1,17 @@
 # dotfiles
 new Mac setup
 
-- Tools
-  - Slack
-  - TablePlus
-  - VS Code
-  - Dash
-  - Homebrew
-  - Heroku Toolbelt
-  - oh-my-zsh
-  - Postgresql mac app
+# Tools
+- Slack
+- TablePlus
+- VS Code
+- Dash
+- Homebrew
+- Heroku Toolbelt
+- oh-my-zsh
+- Postgresql mac app
 
 # Homebrew
-
 - heroku
 - rbenv
 - ruby-build
