@@ -13,11 +13,11 @@ new Mac setup
 
 # Homebrew
 
-heroku
-rbenv
-ruby-build
-zsh-history-substring-search
-zsh-syntax-highlighting
+- heroku
+- rbenv
+- ruby-build
+- zsh-history-substring-search
+- zsh-syntax-highlighting
 
 # order
 
