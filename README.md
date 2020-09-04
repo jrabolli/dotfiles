@@ -1,7 +1,7 @@
 # dotfiles
 new Mac setup
 
-# Tools
+# Tools I use
 - Slack
 - TablePlus
 - VS Code
@@ -11,12 +11,13 @@ new Mac setup
 - oh-my-zsh
 - Postgresql mac app
 
-# Homebrew
+# Homebrew installs
 - heroku
 - rbenv
 - ruby-build
 - zsh-history-substring-search
 - zsh-syntax-highlighting
+- zsh-autosuggestions
 
 # order
 - install xcode tools
