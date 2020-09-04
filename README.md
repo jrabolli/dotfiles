@@ -8,8 +8,8 @@ new Mac setup
 - Dash
 - Homebrew
 - Heroku Toolbelt
-- oh-my-zsh
-- Postgresql mac app
+- oh-my-zsh (https://ohmyz.sh)
+- Postgresql mac app (https://postgresapp.com)
 
 # Homebrew installs
 - heroku
@@ -22,4 +22,16 @@ new Mac setup
 # order
 - install xcode tools
 - install homebrew
-  - bew install rbenv
+- oh-my-zsh
+- postgresql app
+- brew install (all)
+
+# clone
+(in code directory)
+git clone git@github.com:jrabolli/####.git
+check ruby version from project ruby-version file
+rbenv install (version)
+check gemfile for bundler version
+gem install bundler:[version]
+bundle install
+rails db:setup
