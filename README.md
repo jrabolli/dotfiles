@@ -28,10 +28,10 @@ new Mac setup
 
 # clone
 (in code directory)
-git clone git@github.com:jrabolli/####.git
-check ruby version from project ruby-version file
-rbenv install (version)
-check gemfile for bundler version
-gem install bundler:[version]
-bundle install
-rails db:setup
+- git clone git@github.com:jrabolli/####.git
+- check ruby version from project ruby-version file
+- rbenv install (version)
+- check gemfile for bundler version
+- gem install bundler:[version]
+- bundle install
+- rails db:setup
